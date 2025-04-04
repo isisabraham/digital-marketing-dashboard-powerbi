@@ -1,4 +1,4 @@
-# # 📊 Digital Marketing & E-commerce Dashboard – Power BI
+# 📊 Digital Marketing & E-commerce Dashboard – Power BI
 
 This project presents a Power BI dashboard built to analyze **digital marketing performance** and **e-commerce sales trends**. It allows stakeholders to monitor KPIs, track campaign effectiveness, and extract data-driven insights for decision-making.
 
